@@ -5,9 +5,10 @@ Welcome to my Regex tutorial! In this tutorial I will be breaking down a regular
 
 ## Summary
 
-Hello all, I have broken down the tutorial into different steps accesed through the table of contents. I will be introducing the Regex componets, Anchors, Quantifiers, OR Operator, Character Classes, Flags, Grouping and Capturing, Bracket Expressions, greedy and Lazy Match, Boundaries, as well as Back-references, Look-ahead and Look-behind. We will be de-structuring the regex from the code snippet below. Let's get started by checking out the table of contents! 
+Hello all, I have broken down the tutorial into different steps accesed through the table of contents. I will be introducing the Regex Componets: Anchors, Quantifiers, OR Operator, Character Classes, Flags, Grouping and Capturing, Bracket Expressions, greedy and Lazy Match, Boundaries, as well as Back-references, Look-ahead and Look-behind. We will be de-structuring the regex from the code snippet below. Let's get started by checking out the table of contents! 
 
-Include a code snippet of the regex. Replace this text with your summary.
+![image](https://user-images.githubusercontent.com/88221365/144168419-aa562555-6dc2-4fe7-9d5d-d8b271fda800.png)
+
 
 ## Table of Contents
 
